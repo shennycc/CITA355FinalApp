@@ -28,23 +28,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/AppShell.xaml]
+[C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/ExamPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.AppShell.xaml
-build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
-build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.ExamPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ExamPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ExamPage.xaml
 
-[C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/DetailPage.xaml]
+[C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.DetailPage.xaml
-build_metadata.AdditionalFiles.TargetPath = DetailPage.xaml
-build_metadata.AdditionalFiles.RelativePath = DetailPage.xaml
-
-[C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
 
 [C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -57,3 +51,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/dinor/source/repos/MyFirstMauiApp/MyFirstMauiApp/StudentInfo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.StudentInfo.xaml
+build_metadata.AdditionalFiles.TargetPath = StudentInfo.xaml
+build_metadata.AdditionalFiles.RelativePath = StudentInfo.xaml

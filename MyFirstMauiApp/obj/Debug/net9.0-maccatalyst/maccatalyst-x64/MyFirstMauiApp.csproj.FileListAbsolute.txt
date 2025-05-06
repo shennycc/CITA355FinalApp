@@ -290,6 +290,7 @@ C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-macca
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.AssemblyInfoInputs.cache
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.AssemblyInfo.cs
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.csproj.CoreCompileInputs.cache
+C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.sourcelink.json
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MyFirstM.0360FC9B.Up2Date
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.dll

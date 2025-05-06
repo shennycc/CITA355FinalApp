@@ -23,10 +23,10 @@ namespace MyFirstMauiApp
             builder.Logging.AddDebug();
 #endif
 
-            builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddSingleton<LoginPage>();
             builder.Services.AddSingleton<MainViewModel>();
 
-            builder.Services.AddTransient<DetailPage>();
+            builder.Services.AddTransient<StudentInfo>();
             builder.Services.AddTransient<DetailViewModel>();
 
 

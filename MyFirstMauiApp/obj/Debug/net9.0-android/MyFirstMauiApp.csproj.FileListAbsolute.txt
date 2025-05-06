@@ -113,6 +113,7 @@ C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-andro
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstMauiApp.AssemblyInfoInputs.cache
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstMauiApp.AssemblyInfo.cs
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstMauiApp.csproj.CoreCompileInputs.cache
+C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstMauiApp.sourcelink.json
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\XamlC.stamp
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstMauiApp.dll
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstMauiApp.pdb
@@ -916,10 +917,3 @@ C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-andro
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net9.0-android\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.TapContract.dll
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\MyFirstM.0360FC9B.Up2Date
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\dinor\source\repos\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.TapContract.dll
