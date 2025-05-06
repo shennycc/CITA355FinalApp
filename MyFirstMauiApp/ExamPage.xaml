@@ -1,0 +1,51 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyFirstMauiApp.ExamPage"
+             Title="Exam Page">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <!-- Question 1 -->
+            <Label Text="Question 1: Which of the following statements is true about echo and print in PHP?" FontSize="18"/>
+            <RadioButton GroupName="Q1" x:Name="Q1A" Content="a) echo can only output one string, while print can output multiple strings."/>
+            <RadioButton GroupName="Q1" x:Name="Q1B" Content="b) echo can output multiple strings, while print can output only one string."/>
+            <RadioButton GroupName="Q1" x:Name="Q1C" Content="c) echo and print are interchangeable with no difference."/>
+            <RadioButton GroupName="Q1" x:Name="Q1D" Content="d) echo returns a value, while print does not."/>
+
+            <!-- Question 2 -->
+            <Label Text="Question 2: How do you access the value of the 'email' key in the following PHP associative array? 
+$user = array(&quot;name&quot; =&gt; &quot;John&quot;, &quot;age&quot; =&gt; 25, &quot;email&quot; =&gt; &quot;john@example.com&quot;);" FontSize="18"/>
+            <RadioButton GroupName="Q2" x:Name="Q2A" Content="a) $user['email'];"/>
+            <RadioButton GroupName="Q2" x:Name="Q2B" Content="b) $user->email;"/>
+            <RadioButton GroupName="Q2" x:Name="Q2C" Content="c) echo $user[&quot;email&quot;];"/>
+            <RadioButton GroupName="Q2" x:Name="Q2D" Content="d) Both a and c."/>
+
+            <!-- Question 3 -->
+            <Label Text="Question 3: Which loop should you use when you know the exact number of iterations in advance?" FontSize="18"/>
+            <RadioButton GroupName="Q3" x:Name="Q3A" Content="a) while loop"/>
+            <RadioButton GroupName="Q3" x:Name="Q3B" Content="b) for loop"/>
+            <RadioButton GroupName="Q3" x:Name="Q3C" Content="c) for each loop"/>
+            <RadioButton GroupName="Q3" x:Name="Q3D" Content="d) do-while loop"/>
+
+            <!-- Question 4 -->
+            <Label Text="Question 4: Which of the following is the correct way to start a session in PHP?" FontSize="18"/>
+            <RadioButton GroupName="Q4" x:Name="Q4A" Content="a) session_start();"/>
+            <RadioButton GroupName="Q4" x:Name="Q4B" Content="b) start_session();"/>
+            <RadioButton GroupName="Q4" x:Name="Q4C" Content="c) begin_session();"/>
+            <RadioButton GroupName="Q4" x:Name="Q4D" Content="d) session_initialize();"/>
+
+            <!-- Question 5 -->
+            <Label Text="Question 5: How do you set a cookie that expires in 1 hour?" FontSize="18"/>
+            <RadioButton GroupName="Q5" x:Name="Q5A" Content="a) setcookie('username', 'john', time() + 3600);"/>
+            <RadioButton GroupName="Q5" x:Name="Q5B" Content="b) setcookie('username', 'john', 3600);"/>
+            <RadioButton GroupName="Q5" x:Name="Q5C" Content="c) setcookie('username', 'john', time() - 3600);"/>
+            <RadioButton GroupName="Q5" x:Name="Q5D" Content="d) setcookie('username', 'john', time() + 1);"/>
+
+            <Button Text="Submit Exam" Clicked="OnSubmitClicked"/>
+            <Label x:Name="ResultLabel" TextColor="Green" IsVisible="False"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
+
+
